@@ -1,1 +1,35 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    /* Graffiti removed */
+}
+
+#wall .tag-2 {
+    display: none;
+    /* Another tag removed */
+}
+
+#wall .tag-3 {
+    display: none;
+    /* Removed another one */
+}
+
+#wall .tag-4 {
+    display: none;
+    /* Cleaned up */
+}
+
+#wall .tag-5 {
+    display: none;
+    /* Continuing to clean */
+}
+
+#wall .tag-6 {
+    display: none;
+    /* More cleanup */
+}
+
+#wall .tag-7 {
+    display: none;
+    /* Final cleanup */
+}
